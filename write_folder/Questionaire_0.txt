@@ -1,0 +1,53 @@
+{
+	"questions": [{
+			"question": "Who are the three individuals after whom the RSA cryptosystem was named?",
+			"answer_choices": ["Ron Rivest, Adi Shamir and Leonard Adleman", "Whitfield Diffie and Martin Hellman", "Clifford Cocks", "Whitfield Diffie, Martin Hellman, and Leonard Adleman"],
+			"correct_answer": "Ron Rivest, Adi Shamir and Leonard Adleman"
+		},
+		{
+			"question": "In RSA, which key is kept public and which key is kept private?",
+			"answer_choices": ["Public key is for encryption and private key is for decryption", "Private key is for encryption and public key is for decryption", "Both keys are kept public", "Both keys are kept private"],
+			"correct_answer": "Public key is for encryption and private key is for decryption"
+		},
+		{
+			"question": "What is the security of RSA based on?",
+			"answer_choices": ["The difficulty of factoring the product of two large prime numbers", "The size of the public key", "The method of encryption", "The speed of the algorithm"],
+			"correct_answer": "The difficulty of factoring the product of two large prime numbers"
+		},
+		{
+			"question": "Why is RSA considered a relatively slow algorithm?",
+			"answer_choices": ["Because it involves large prime numbers", "Because of its encryption key", "Because it requires high computational power", "Because it uses modular exponentiation"],
+			"correct_answer": "Because it involves large prime numbers"
+		},
+		{
+			"question": "What is the equivalent system developed secretly in 1973 at Government Communications Headquarters (GCHQ)?",
+			"answer_choices": ["The RSA cryptosystem", "Kid-RSA", "Diffie-Hellman key exchange", "Clifford Cocks' system"],
+			"correct_answer": "Clifford Cocks' system"
+		},
+		{
+			"question": "In what year was an equivalent system developed secretly at Government Communications Headquarters (GCHQ) by Clifford Cocks declassified?",
+			"answer_choices": ["1977", "1997", "1980", "2000"],
+			"correct_answer": "1997"
+		},
+		{
+			"question": "What is the purpose of Kid-RSA (KRSA)?",
+			"answer_choices": ["It is a secure public-key cipher for data encryption", "It is designed for educational purposes", "It is used for bulk encryption", "It is a top-secret system used by intelligence agencies"],
+			"correct_answer": "It is designed for educational purposes"
+		},
+		{
+			"question": "Who are attributed with introducing the idea of an asymmetric public-private key cryptosystem?",
+			"answer_choices": ["Ron Rivest, Adi Shamir and Leonard Adleman", "Whitfield Diffie and Martin Hellman", "Clifford Cocks", "Ron Rivest and Adi Shamir"],
+			"correct_answer": "Whitfield Diffie and Martin Hellman"
+		},
+		{
+			"question": "What do Ron Rivest, Adi Shamir, and Leonard Adleman have in common with the names of the RSA algorithm?",
+			"answer_choices": ["Their first initials", "Their last initials", "Their birth years", "Their favorite color"],
+			"correct_answer": "Their last initials"
+		},
+		{
+			"question": "How long did it take Ron Rivest to formalize the idea of their one-way function based on his recollection?",
+			"answer_choices": ["A few hours", "A few days", "A week", "An entire night"],
+			"correct_answer": "An entire night"
+		}
+	]
+}
