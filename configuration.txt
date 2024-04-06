@@ -1,0 +1,6 @@
+{
+  "api_key": "{{{ OpenAI key }}}",
+  "sys_proompt": "Create 10 questions based on the provided text. Return the question, answer_choices, & correct_answer in a json format",
+  "User_input": "read_folder",
+  "User_output": "write_folder"
+}
