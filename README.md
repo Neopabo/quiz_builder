@@ -32,6 +32,8 @@ then update the ```configuration.txt``` file to include your openAI key, add you
 - Add a new run file to run the output questionaire in python
 
 
+## Usage
+Available for use under MIT license.
 
 ## Contribution
 Feel free to join the open-source community and contribute to this repository.
