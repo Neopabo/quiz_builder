@@ -30,7 +30,6 @@ You can then run ```Quiz.py``` to go through the quiz.
 - Improve the docs system (measure current_len + next_file_len. If too long, cut the prompts)
 - Add all OpenAI configs to config file for full customization
 - Change temp.txt to logs.txt, save objects as json for each query, instead of a counter
-- Add a new run file to run the output questionaire in python
 
 
 ## Usage
