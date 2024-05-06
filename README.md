@@ -22,7 +22,7 @@ __OpenAI toolkit :__
 ## Basic How To
 To use this program, start by removing the sample files from ```read_folder``` and ```write_folder``` (```information.txt``` & ```Questionaire_0.txt```),
 then update the ```configuration.txt``` file to include your openAI key, add your own input file to ```read_folder```. Finally, run ```Launcher.py```.
-
+You can then run ```Quiz.py``` to go through the quiz.
 
 
 ## Features backlog
