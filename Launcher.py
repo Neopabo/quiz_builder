@@ -13,7 +13,7 @@ import os
 
 #importing config
 with open('configuration.txt', 'r') as file:
-    config = json.loads(file.read().strip())
+    config = json.load(file)
 
 
 #listing files
