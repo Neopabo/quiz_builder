@@ -1,5 +1,5 @@
-# Questionaire Builder
-A questionaire builder program that takes a text file containing information as input, and turns it into a json file. This is done using the ```OpenAI API``` to process text information and turn it into relevant questions in a predictable format using the new ```json mode```.
+# Quiz Builder
+A quiz builder program that takes a text file containing information as input, and turns it into a json file. This is done using the ```OpenAI API``` to process text information and turn it into relevant questions in a predictable format using the new ```json mode```.
 
 
 
